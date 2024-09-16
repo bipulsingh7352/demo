@@ -30,7 +30,7 @@ public class gfg extends HttpServlet {
 		//response.getWriter().append("Served at: ").append(request.getContextPath());
 		PrintWriter pw=response.getWriter();
 		response.setContentType("text/html");
-		pw.println("<h1>hello");
+		pw.println("<h1>bipul");
 	}
 
 	/**
